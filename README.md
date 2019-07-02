@@ -6,4 +6,4 @@ Lista de las funciones:
 
 | Función | Enlace |
 | ------ | ------ |
-| Generador de Códigos Aleatorios | [funciones/keygenerator.php][PlDb] |
+| Generador de Códigos Aleatorios | [/functions/keygenerator.php][PlDb] |
