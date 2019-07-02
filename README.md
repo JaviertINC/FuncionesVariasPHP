@@ -4,5 +4,5 @@ He aquí una libreria de funciones de PHP bastante útiles, que he ido desarroll
 
 Lista de las funciones:
 
- - [Generador de Códigos Aleatorios](https://github.com/JaviertINC/FuncionesVariasPHP/blob/master/functions/keygenerator.php)
+ - [Generador de Códigos Aleatorios](/functions/keygenerator.php)
  - [Contador de Días Transcurridos]()
