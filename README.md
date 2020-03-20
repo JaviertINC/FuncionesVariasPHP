@@ -9,3 +9,5 @@ Lista de las funciones:
  - [Transforma Bytes en un formato legible](/functions/bytes_read.php)
  - [Calculadora de Edad (simple)](/functions/calc_edad.php)
  - [Ordenador de fechas(simple)](/functions/sortDates.php)
+ - [Convertidor de HEX a RGB(simple)](/functions/hex2rgb.php)
+ - [Convertidor de RGB a HEX(simple)](/functions/rgb2hex.php)
