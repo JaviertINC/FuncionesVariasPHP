@@ -8,3 +8,4 @@ Lista de las funciones:
  - [Contador de Días Transcurridos](/functions/dias_transcurridos.php)
  - [Transforma Bytes en un formato legible](/functions/bytes_read.php)
  - [Calculadora de Edad (simple)](/functions/calc_edad.php)
+ - [Ordenador de fechas(simple)](/functions/sortDates.php)
