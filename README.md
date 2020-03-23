@@ -1,4 +1,4 @@
-# Libreria de Funciones PHP
+# Funciones Varias en PHP
 
 He aquí una libreria de funciones de PHP bastante útiles, que he ido desarrollando yo mismo o he encontrado por la Interweb
 
