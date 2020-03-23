@@ -11,3 +11,4 @@ Lista de las funciones:
  - [Ordenador de fechas(simple)](/functions/sortDates.php)
  - [Convertidor de HEX a RGB(simple)](/functions/hex2rgb.php)
  - [Convertidor de RGB a HEX(simple)](/functions/rgb2hex.php)
+ - [HEX inversor(simple)](/functions/hex_invert.php)
